@@ -10,11 +10,11 @@ a numpy array of doubles corresponding to the position and velocity of the car. 
 mountaincar.py to better understand the task.
 
 Your agent program should use the following parameter settings:
-memorySize = 4096 (for the tile coder)
-num tilings = 8
-shape/size of tilings = 8x8
-a = 0.1/(numTilings)
-? = 0.9
-e = 0.0
-initial weights = random numbers between 0 and -0.001
-? = 1
+- memorySize = 4096 (for the tile coder)
+- num tilings = 8
+- shape/size of tilings = 8x8
+- a = 0.1/(numTilings)
+- ? = 0.9
+- e = 0.0
+- initial weights = random numbers between 0 and -0.001
+- ? = 1
