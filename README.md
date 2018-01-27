@@ -15,6 +15,8 @@ All the solutions and techniques followed the algorithms implemented in the book
 - 2. On-policy Monte Carlo Control with Exploring Starts for action values (described in Section
 5.3) on the Gambler’s problem described in Chapter 4 (Example 4.3). 
   Two changes from the problem specification in the book: set pr(heads) = 0.55 and zero is not allowed for bet action.
+  
+- 3. Windy Gridworld with King’s Moves.
 
 # Acknowledgements
 
