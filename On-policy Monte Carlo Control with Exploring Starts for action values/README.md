@@ -1,4 +1,4 @@
-#Description of the problem and plotting:
+# Description of the problem and plotting:
 
 You will plot the Monte Carlo agent’s estimate of v*(s) during training. To do this: plot on the y-axis V(s)
 
