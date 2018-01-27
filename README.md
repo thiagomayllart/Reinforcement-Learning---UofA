@@ -10,13 +10,15 @@ All the solutions and techniques followed the algorithms implemented in the book
 
 # Assignments:
 
-- 1. Bandit task Programming: Recreation of the learning curves for the optimistic bandit agent, and the epsilon-greedy agent in Figure 2.3 of Reinforcement Learning:An Introduction.
+- 1. Bandit task Programming: Recreation of the learning curves for the optimistic bandit agent, and the epsilon-greedy agent in Figure 2.3 of Reinforcement Learning:An Introduction.(https://github.com/thiagomayllart/Reinforcement-Learning---UofA/tree/master/Bandit%20Task%20Programming)
 
 - 2. On-policy Monte Carlo Control with Exploring Starts for action values (described in Section
-5.3) on the Gambler’s problem described in Chapter 4 (Example 4.3). 
+5.3) on the Gambler’s problem described in Chapter 4 (Example 4.3). https://github.com/thiagomayllart/Reinforcement-Learning---UofA/tree/master/On-policy%20Monte%20Carlo%20Control%20with%20Exploring%20Starts%20for%20action%20values
   Two changes from the problem specification in the book: set pr(heads) = 0.55 and zero is not allowed for bet action.
   
-- 3. Windy Gridworld with King’s Moves.
+- 3. Windy Gridworld with King’s Moves.https://github.com/thiagomayllart/Reinforcement-Learning---UofA/tree/master/Windy%20Gridworld%20with%20King%E2%80%99s%20Moves
+
+- 4. Dyna-Q on the grid world: described in Example 8.1 of the "Reinforcement Learning: An introduction" textbook.
 
 # Acknowledgements
 
