@@ -18,8 +18,14 @@ All the solutions and techniques followed the algorithms implemented in the book
   
 - 3. Windy Gridworld with King’s Moves.https://github.com/thiagomayllart/Reinforcement-Learning---UofA/tree/master/Windy%20Gridworld%20with%20King%E2%80%99s%20Moves
 
-- 4. Dyna-Q on the grid world: described in Example 8.1 of the "Reinforcement Learning: An introduction" textbook.
+- 4. Dyna-Q on the grid world: described in Example 8.1 of the "Reinforcement Learning: An introduction" textbook. https://github.com/thiagomayllart/Reinforcement-Learning---UofA/tree/master/Dyna-Q%20on%20the%20grid%20world
 
-# Acknowledgements
+-5. Three prediction agents based on TD(0); each using a different function approximation schemes in RL-glue.
+  Tabular feature encoding.
+  Tile coding features.
+  State aggregation.
+  
+
+# Acknowledgements:
 
 All my sincere thanks to Richard Sutton (https://www.ualberta.ca/science/about-us/contact-us/faculty-directory/rich-sutton), for being able to provide us a great part of his knowledge about Reinforcement Learning and lot of techniques developed by him. An incredible professor and academic.
