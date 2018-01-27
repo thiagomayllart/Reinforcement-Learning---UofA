@@ -27,6 +27,7 @@ All the solutions and techniques followed the algorithms implemented in the book
   https://github.com/thiagomayllart/Reinforcement-Learning---UofA/tree/master/Prediction%20agents%20based%20on%20TD(0)
   
  - 6. Solving Mountain Car in RL-Glue: A car that learns how to climb a mountain given the mountain slope, a starting position and a goal position (the peak). It uses physics properties to learn and climb the mountain.
+ https://github.com/thiagomayllart/Reinforcement-Learning---UofA/tree/master/Solving%20Mountain%20Car%20in%20RL-Glue
 
 # Acknowledgements:
 
