@@ -10,9 +10,9 @@ All the solutions and techniques followed the algorithms implemented in the book
 
 # Assignments:
 
-- 1) Bandit task Programming: Recreation of the learning curves for the optimistic bandit agent, and the epsilon-greedy agent in Figure 2.3 of Reinforcement Learning:An Introduction.
+- 1. Bandit task Programming: Recreation of the learning curves for the optimistic bandit agent, and the epsilon-greedy agent in Figure 2.3 of Reinforcement Learning:An Introduction.
 
-- 2) On-policy Monte Carlo Control with Exploring Starts for action values (described in Section
+- 2. On-policy Monte Carlo Control with Exploring Starts for action values (described in Section
 5.3) on the Gambler’s problem described in Chapter 4 (Example 4.3). 
   Two changes from the problem specification in the book: set pr(heads) = 0.55 and zero is not allowed for bet action.
 
